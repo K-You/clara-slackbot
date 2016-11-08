@@ -1,0 +1,23 @@
+{
+  "name": "clara",
+  "version": "1.0.0",
+  "description": "first slack bot",
+  "main": "lib/clara.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Slack",
+    "bot",
+    "clara"
+  ],
+  "author": "@pierreBausiere",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.1",
+    "progress": "^1.1.8",
+    "request": "^2.75.0",
+    "slackbots": "^0.5.3",
+    "sqlite3": "^3.1.6"
+  }
+}
