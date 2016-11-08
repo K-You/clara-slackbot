@@ -2,7 +2,7 @@
 
 var Clara = require('../lib/clara');
 
-var token = "xoxb-91967712342-3xh6RFdu3UMLh1PEAWIgYcD0";
+var token = "SLACK-TOKEN";
 var dbPath = process.env.BOT_DB_PATH;
 var name = process.env.BOT_NAME;
 
